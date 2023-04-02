@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules/
+
+#Cypress execution data
+cypress/screenshots
+cypress/downloads
+cypress/videos

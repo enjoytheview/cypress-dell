@@ -1,0 +1,15 @@
+{
+  "name": "cypress-dell",
+  "version": "1.0.0",
+  "description": "Made for interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "sample": "cypress run --spec 'cypress/e2e/sample-test.cy.js'  --browser chrome --headed"
+  },
+  "author": "Rahul Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}
